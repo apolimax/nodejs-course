@@ -1,0 +1,2 @@
+20220907	09:38:41	f78541c4-b67b-4fde-9167-284a7e8c2a1a	Log event emitted!
+20220907	09:39:09	7bf3efeb-addb-4d4b-9300-4c8e54fe08a1	Log event emitted!

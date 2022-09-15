@@ -1,0 +1,3 @@
+Nice talking to you
+
+Testing fs appendFile
